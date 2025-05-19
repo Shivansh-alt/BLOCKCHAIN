@@ -1,4 +1,4 @@
-## que.1 Create a voting system with multiple candidates. Each address can vote only once.
+## Q.1 Create a voting system with multiple candidates. Each address can vote only once.
 
 ```
 // SPDX-License-Identifier: MIT
@@ -54,7 +54,7 @@ contract VotingSystem {
 
 
 
-## que.2 Write a contract that manages a list of student records (name, roll number). Allow adding and retrieving student data.
+## Q.2 Write a contract that manages a list of student records (name, roll number). Allow adding and retrieving student data.
 
 ```
 // SPDX-License-Identifier: MIT
@@ -91,7 +91,7 @@ contract StudentRecords {
 
 
 
-## que3 :- Develop a contract that only allows the deployer (owner) to call a specific function (use modifiers).
+## Q.3 :- Develop a contract that only allows the deployer (owner) to call a specific function (use modifiers).
 
 ```
 // SPDX-License-Identifier: MIT
@@ -126,7 +126,7 @@ contract OwnerRestricted {
 
 
 
-## que4 :- Write a contract where people can donate Ether and the top 3 donors are tracked.
+## Q.4 :- Write a contract where people can donate Ether and the top 3 donors are tracked.
 
 ```
 // SPDX-License-Identifier: MIT
@@ -178,7 +178,7 @@ contract TopDonors {
 
 
 
-## que5 :- Implement a simple auction system where users can place bids, and the highest bidder wins.
+## Q.5 :- Implement a simple auction system where users can place bids, and the highest bidder wins.
 
 ```
 // SPDX-License-Identifier: MIT
@@ -207,7 +207,7 @@ contract SimpleAuction {
 
 
 
-## que6 :- Create a contract that splits incoming Ether between 3 fixed addresses.
+## Q.6 :- Create a contract that splits incoming Ether between 3 fixed addresses.
 
 ```
 // SPDX-License-Identifier: MIT
